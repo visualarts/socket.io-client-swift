@@ -2,6 +2,7 @@
 
 #Socket.IO-Client-Swift
 Socket.IO-client for iOS/OS X.
+スクリプトエンジンに組み込む用に改造
 
 ##Example
 ```swift
